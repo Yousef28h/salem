@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590238083477.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3694117009",
+    "id" : "318D20B6",
+    "lastKnownWriteTime" : 1590238097,
+    "last_content_update" : 1590238097711,
+    "path" : "C:/Users/Yousef/Desktop/salem/yousef.R",
+    "project_path" : "yousef.R",
+    "properties" : {
+        "cursorPosition" : "0,17",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
